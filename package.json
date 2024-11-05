@@ -1,0 +1,27 @@
+{
+  "name": "1846uf_ap_judith_roser",
+  "version": "1.0.0",
+  "description": "Pràctica NODE i mòduls per desenvolupar una aplicació",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judith166/1846UF.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Judith Roser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/judith166/1846UF/issues"
+  },
+  "homepage": "https://github.com/judith166/1846UF#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
